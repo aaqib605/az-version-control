@@ -4,3 +4,10 @@ h1 {
   line-height: 1.6;
   margin: 20px;
 }
+
+h2 {
+  font-size: 3rem;
+  text-align: center;
+  color: black;
+  padding: 3rem;
+}
